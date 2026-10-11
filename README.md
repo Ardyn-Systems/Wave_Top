@@ -44,7 +44,7 @@ The [user guide](docs/user-guide.md) walks through every screen with screenshots
 
 ## Install
 
-1. Download `WaveTop-<version>.apk` from the [latest release](https://github.com/ardyn-systems/WaveTop/releases/latest)
+1. Download `WaveTop-<version>.apk` from the [latest release](https://github.com/Ardyn-Systems/Wave_Top/releases/latest)
    on your phone and open it. Android asks once to allow installs from your browser or file manager.
 2. Open WaveTop and allow location, nearby devices and Bluetooth when asked (see below for why).
 

@@ -35,7 +35,7 @@ android {
         targetSdk = 36
         versionCode = appVersionCode
         versionName = appVersionName
-        buildConfigField("String", "GITHUB_REPO", "\"ardyn-systems/WaveTop\"")
+        buildConfigField("String", "GITHUB_REPO", "\"Ardyn-Systems/Wave_Top\"")
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
